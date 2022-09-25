@@ -7,5 +7,5 @@ tags: Python
 I love Python! In fact, here is some python!
 
 ```python
-print("hello"!)
+print("hello")
 ```
