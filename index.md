@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is a place where I share the tech I'm trying to learn.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Python, PowerShell/Batch, and Bash are my primary focus right now.
