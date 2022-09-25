@@ -1,10 +1,14 @@
+---
+tags: Updates
+---
+
 ## Power comes from information
 
-Blogging isn't my favourite thing, but as I've started to expand my tech skillset, be more interested in various tools, and constantly hear others mention how important a digit precense is for tech professionals, starting a blog is probably one of the best things one can do. 
+Blogging isn't my favourite thing, but as I've started to expand my tech skillset, be more interested in various tools, and constantly hear others mention how important a digital presence is for tech professionals, starting a blog is probably one of the best things one can do. 
 
-The keep things nice and short, the purpose of this blog is two fold:
+The keep things nice and short, the purpose of this blog is two-fold:
 1. Have a place to record my findings and archive solutions to problems I face.
-2. Share my knowledge with others who may have similiar interests or problems.
+2. Share my knowledge with others who may have similar interests or problems.
 
 As some who primarily uses Python, I don't believe in re-inventing the wheel or making things complex. That means several things:
 1. I won't post simple solutions to problems easily solved by a little Google-Fu. If I find that I'm constantly forgetting some simple solution, I might try to write a post presenting information in a hard to forget way.
