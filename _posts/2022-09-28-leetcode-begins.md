@@ -2,6 +2,8 @@
 tags: DSA
 ---
 
+## The LeetCode Grind Begins?
+
 On one of the academic Discord channels I'm in, someone posted a LeetCode signup link to get a discount (I saved about $39 CAD) on a lifetime annual subscription. The only catch was that at least 5 people had to sign up. We were able to get 7!
 
 
