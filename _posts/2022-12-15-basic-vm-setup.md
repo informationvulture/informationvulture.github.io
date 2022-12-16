@@ -2,11 +2,11 @@
 tags: Linux
 ---
 
-## Basic VM Setup
+## Basic VM Setup (Ubuntu + Debian)
 
 I like using DigitalOcean to setup VM's for personal projects. The one thing that I constantly find myself doing is creating a new user to follow the security principle of not using the root account for daily tasks. Actually, I found that most security guides recommend disabling the root account completely.
 
-Here's the steps that I always forget, no matter how many times I do them.
+Here's the steps that I always forget, no matter how many times I do them. I know this works on **Ubuntu** and **Debian**, but I haven't tried other distros yet.
 
 Getting the actual new user:
 ```bash
