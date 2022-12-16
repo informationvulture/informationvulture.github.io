@@ -22,3 +22,8 @@ sudo cp /root/.ssh/authorized_keys /home/$USER/.ssh/authorized_keys
 sudo chown -R $USER:$USER /home/$USER/.ssh
 sudo chmod 600 /home/$USER/.ssh/authorized_keys
 ```
+
+
+##### Sources
+https://askubuntu.com/questions/1218023/copying-ssh-key-from-root-to-another-user-on-same-machine
+https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-ubuntu-20-04
